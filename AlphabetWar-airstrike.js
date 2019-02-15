@@ -48,3 +48,7 @@ console.log( alphabetWar("sz**z**zs"), "Left side wins!" );
 console.log( alphabetWar("z*z*z*zs"), "Left side wins!" );
 console.log( alphabetWar("*wwwwww*z*"), "Left side wins!" );
 console.log( alphabetWar("cir*re"), "Let's fight again!" );
+console.log( alphabetWar(" zy*j*lsqbow*"), "Let's fight again!" );
+console.log( alphabetWar("**bg"), "Let's fight again!" );
+console.log( alphabetWar("gs*mbadctm*y**sn"), "Let's fight again!" );
+console.log( alphabetWar("rosw*q*v"), "Left side wins!" );
